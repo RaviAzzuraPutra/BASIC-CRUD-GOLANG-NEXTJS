@@ -1,0 +1,1 @@
+## Pembuatan Project CRUD Sederhana Menggunakan Next.js dan Golang, Hanya Untuk Latihan Saya
