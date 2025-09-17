@@ -1,5 +1,7 @@
 package main
 
-func main() {
+import "backend/bootstrap"
 
+func main() {
+	bootstrap.InitialApp()
 }
