@@ -10,6 +10,10 @@
   --color-foreground: var(--foreground);
   --font-sans: var(--font-geist-sans);
   --font-mono: var(--font-geist-mono);
+  --font-doto: 'Doto', sans-serif;
+  --font-kablammo: 'Kablammo', sans-serif;
+  --font-asimovian: 'Asimovian', sans-serif;
+  --font-libertinus: 'Libertinus Serif Display', serif;
 }
 
 @media (prefers-color-scheme: dark) {

@@ -1,7 +1,7 @@
 package request
 
 type TravelRequest struct {
-	Name        *string `json:"name" binding:"required"`
-	Description *string `json:"description" binding:"required"`
-	Price       *int    `json:"price" binding:"required"`
+	Name        *string `form:"name" binding:"required"`
+	Description *string `form:"description" binding:"required"`
+	Price       *int    `form:"price" binding:"required"`
 }
